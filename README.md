@@ -27,10 +27,9 @@ More information is available in the Jupyter notebook.
 ## How to run the code:
 1.	Open Google Colab: https://colab.research.google.com/. Click "File" → "Open notebook" → "GitHub" tab，Paste this repository URL and select the notebook. URL: https://github.com/YiqiuLu-201886416/Final-Assignment/blob/main/Final_Project_201886416.ipynb
  
-3. If the GitHub or the link in the Jupyter notebook do not work:
- Download all files from this repository to your computer. Open Colab, click "File" then upload the notebook. For data files, click the folder icon on the left, then upload all CSV and geojson files.
+2. If the GitHub or the link in the Jupyter notebook do not work: Download all files from this repository to your computer. Open Colab, click "File" then upload the notebook. For data files, click the folder icon on the left, then upload all CSV and geojson files.
  
-4. Click Runtime and Run all cells. If you want to run step by step, remember to install and import the packages first.
+3. Click Runtime and Run all cells. If you want to run step by step, remember to install and import the packages first.
    
 ## Reference
 
